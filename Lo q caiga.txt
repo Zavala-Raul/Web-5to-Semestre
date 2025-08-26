@@ -1,0 +1,40 @@
+Uno
+Dos
+Tres
+Cuatro
+Cinco
+Seis
+Siete
+Ocho
+Nueve
+Diez
+Once
+Doce
+Trece
+Catorce
+Quince
+Dieciseis
+Diecisiete
+Dieciocho
+Diecinueve
+Veinte
+Veintiuno
+Veintidos
+Veintitres
+Veinticuatro
+Veinticinco
+Veintiseis
+Veintisiete
+Veintiocho
+Veintinueve
+Treinta
+Treinta y Uno
+Treinta y Dos
+Treinta y Tres
+Treinta y Cuatro
+Treinta y Cinco
+Treinta y Seis
+Treinta y Siete
+Treinta y Ocho
+Treinta y Nueve
+Cuarenta
