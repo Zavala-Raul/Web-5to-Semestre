@@ -38,3 +38,23 @@ Treinta y Siete
 Treinta y Ocho
 Treinta y Nueve
 Cuarenta
+Cuarenta y Uno
+Cuarenta Y Dos
+Cuarenta y Tres
+Cuarenta y Cuatro
+Cuarenta y Cinco
+Cuarenta y Seis
+Cuarenta y Siete
+Cuarenta y Ocho
+Cuarenta y Nueve
+Cincuenta
+Cincuenta y Uno
+Cincuenta y Dos
+Cincuenta y Tres
+Cincuenta y Cuatro
+Cincuenta y Cinco
+Cincuenta y Seis
+Cincuenta y Siete
+Cincuenta y Ocho
+Cincuenta y Nueve
+Sesenta
