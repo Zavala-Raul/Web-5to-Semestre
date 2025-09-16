@@ -1,0 +1,23 @@
+* {
+    box-sizing:border-box;
+    margin:0;
+    padding:0;
+    
+}
+
+.caja {
+    width:100px;
+    height: 100px;
+    border: 2px solid black;
+    float: left ;
+    background-color: chartreuse;
+}
+
+.contenedor{
+    background-color: blueviolet;
+    overflow: auto;
+}
+
+#caja3{
+    clear: left;
+}
