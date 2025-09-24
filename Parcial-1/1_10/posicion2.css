@@ -1,0 +1,31 @@
+* {
+    box-sizing:border-box;
+    margin:0;
+    padding:0;
+    
+}
+
+.caja {
+    width:100px;
+    height: 100px;
+    border: 2px solid black;
+    float: left ;
+    background-color: chartreuse;
+}
+
+.contenedor{
+    background-color: blueviolet;
+    overflow: auto;
+}
+
+@media screen and (max-width: 1000px) {
+    .caja {
+        /* Hacemos que cada caja ocupe 1/5 del ancho (20%) */
+        width: calc(100% / 5);
+    }
+
+    #caja6 {
+        /* Rompe el float y manda esta caja a la siguiente línea */
+        clear: left;
+    }
+}
