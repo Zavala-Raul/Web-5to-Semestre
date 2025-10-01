@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario</title>
+</head>
+<body>
+    <form action="https://postman-echo.com/post" target="resultPost" method="POST" enctype="application/x-www-form-urlencoded">
+        <label for="Nombre" id="Texto1">Nombre</label>
+        <input type="text" id="Nombre" name="Nombre" value="Texto de prueba.">
+        <br>
+        <label for="Apellido" id="Texto1">Apellido</label>
+        <input type="text" id="Apellido" name="Apelido" value="Texto de prueba.">
+        <br>
+        <button type="submit">Enviar</button>
+    </form>
+    
+    <iframe name="resultPost"></iframe>
+</body>
+</html>
