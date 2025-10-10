@@ -1,0 +1,64 @@
+body {
+            font-family: 'Roboto', sans-serif; /* Fuente moderna y legible para el texto base */
+            background-color: #f4f4f9; /* Un gris muy claro para el fondo */
+            color: #333; /* Color de texto principal oscuro para buen contraste */
+            line-height: 1.6; /* Espaciado entre líneas para mejor legibilidad */
+            margin: 0;
+            padding: 20px;
+        }
+
+        /* Estilo para el título principal */
+        h1 {
+            color: #1a1a1a; /* Un negro más profundo para el título */
+            text-align: center; /* Centrar el título */
+            font-family: 'Merriweather', serif; /* Una fuente serif elegante para el título */
+            font-size: 2.5em; /* Tamaño de fuente más grande */
+            margin-bottom: 30px; /* Espacio debajo del título */
+        }
+
+        /* Estilo para los subtítulos */
+        h2 {
+            font-family: 'Merriweather', serif;
+            color: #0056b3; /* Un azul para resaltar los subtítulos */
+            border-bottom: 2px solid #e0e0e0; /* Línea sutil debajo de los subtítulos */
+            padding-bottom: 10px;
+            margin-top: 0;
+        }
+        
+        /* Estilos para las secciones de contenido */
+        section {
+            max-width: 800px; 
+            margin: 25px auto;
+            padding: 30px;
+            background-color: #ffffff; 
+            border-radius: 10px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); /* Sombra más pronunciada para un efecto "flotante" */
+            border-left: 5px solid #0056b3; /* Borde izquierdo de color para un toque de diseño */
+        }
+
+        /* Estilos para los párrafos */
+        p {
+            text-align: justify; /* Justificar el texto para un aspecto de bloque limpio */
+            margin-bottom: 1em; /* Espacio entre párrafos */
+        }
+
+        /* Estilos para la imagen */
+        img {
+            max-width: 100%; /* Asegura que la imagen sea responsiva y no se desborde */
+            height: auto; /* Mantiene la proporción de la imagen */
+            border-radius: 8px; /* Bordes redondeados para la imagen */
+            display: block; /* La convierte en un bloque para aplicar márgenes */
+            margin: 20px auto; /* Centra la imagen y le da espacio vertical */
+            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1); /* Sombra sutil para la imagen */
+        }
+
+        /* Estilo especial para el último párrafo (TL;DR) */
+        p:last-child {
+            font-style: italic; /* Pone el texto en cursiva */
+            color: #555; /* Un gris un poco más claro */
+            background-color: #f9f9f9; /* Fondo ligeramente diferente */
+            border-left: 3px solid #ccc; /* Un borde izquierdo para destacarlo */
+            padding: 15px;
+            border-radius: 5px;
+            text-align: left;
+        }
