@@ -16,9 +16,7 @@ imagenPiano.addEventListener('mouseleave', function() {
 let contador = 0;
 document.body.addEventListener('click', function() {
     contador++;
-    console.log(`Clic número: ${contador}`);
     if (contador >= 3) {
-        console.log('¡Tema cambiado!');
         document.body.classList.toggle('theme-red');
         contador = 0;
     }
